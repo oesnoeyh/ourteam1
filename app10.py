@@ -51,7 +51,7 @@ def get_response(user_input):
 st.title("식당 챗봇")
 
 # 이미지 표시
-st.image("10.png", caption="Welcome to the Restaurant Chatbot", use_column_width=True)
+st.image("cctv.png", caption="Welcome to the Restaurant Chatbot", use_column_width=True)
 
 st.write("한식당에 관한 질문을 입력해보세요. 예: 영업시간이 어떻게 되나요?")
 
